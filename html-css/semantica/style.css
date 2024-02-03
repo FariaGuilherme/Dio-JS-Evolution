@@ -1,10 +1,25 @@
 body{
     background: rgb(193, 190, 190);
+    font-family: verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title{
+    text-transform: uppercase;
+    font-size: 40px;
 }
 
 .author_image{
     border: 1px solid;
-    border-radius: 50%;; 
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+a{
+    text-decoration: line-through;
+    color: #505050;
+
 }
 
 #title, .subtitle, .post_title{
@@ -29,8 +44,20 @@ body{
 .post_content{
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_image{
     margin-bottom: 15px;
+    width: 100%;
+}
+
+.contactlist{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
 }
