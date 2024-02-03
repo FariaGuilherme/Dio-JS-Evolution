@@ -1,1 +1,3 @@
-Nesta pasta, estão meus projetos criados no módulo de HTML5 & CSS3.
+# HTML 5 & CSS3
+---
+Nesta pasta, estão os exercícios dos meus estudos iniciais de HTML e CSS seguindo o módulo de Desenvolvimento Web.
